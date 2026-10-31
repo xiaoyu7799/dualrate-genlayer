@@ -1,0 +1,27 @@
+{
+  "network": "Stable Studionet",
+  "chainId": 61999,
+  "rpcUrl": "https://studio.genlayer.com/api",
+  "contractAddress": "0xE72AeB60b7B5DbF8c7bbfF6d15C77C6a32DE1E1A",
+  "explorer": "https://explorer-studio.genlayer.com/address/0xE72AeB60b7B5DbF8c7bbfF6d15C77C6a32DE1E1A",
+  "flowAccount": "0x45125669b8FC8cd39621EaBf6C07aFA5EE22D70f",
+  "rateId": 0,
+  "requestTxHash": "0x5e326dcb073aae61c07760482aede9baf7c1823a1dad9d27e52be86878ede114",
+  "verifyTxHash": "0x6a35c69da85bad0482452410a8352e721434b01e80eead992e95005b17e09a3e",
+  "verifyReceiptStatus": "FINALIZED",
+  "record": {
+    "id": 0,
+    "base": "USD",
+    "quote": "EUR",
+    "requester": "0x45125669b8FC8cd39621EaBf6C07aFA5EE22D70f",
+    "status": "agreed",
+    "agreed_rate": "0.895545",
+    "rate_a": "0.896000",
+    "rate_b": "0.895090",
+    "date_a": "2026-10-31",
+    "date_b": "2026-10-30",
+    "source_a": "https://api.exchangerate-api.com/v4/latest/USD",
+    "source_b": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=EUR"
+  },
+  "checkedAt": "2026-10-31T09:33:24.682Z"
+}

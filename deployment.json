@@ -1,0 +1,14 @@
+{
+  "network": "Stable Studionet",
+  "chainId": 61999,
+  "rpcUrl": "https://studio.genlayer.com/api",
+  "explorer": "https://explorer-studio.genlayer.com/address/0xE72AeB60b7B5DbF8c7bbfF6d15C77C6a32DE1E1A",
+  "studio": "https://studio.genlayer.com/?import-contract=0xE72AeB60b7B5DbF8c7bbfF6d15C77C6a32DE1E1A",
+  "contractAddress": "0xE72AeB60b7B5DbF8c7bbfF6d15C77C6a32DE1E1A",
+  "deployTxHash": "0x579080815c2522f2310e248362ada2e0cc78c180205a7712e3b133fe643a360a",
+  "deployer": "0xCBF719038DA0513B3198c8aC3F372bc72D211039",
+  "contractFile": "contracts/dualrate.py",
+  "contractSha256": "5f2cd956a73127e98ea81196dde72b0d65470b3447608306187646c49cc8553f",
+  "deployedAt": "2026-10-31T09:32:02.646Z",
+  "receiptStatus": "FINALIZED"
+}
